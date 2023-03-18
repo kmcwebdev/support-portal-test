@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue3_ts_template"]=self["webpackChunkvue3_ts_template"]||[]).push([[9445],{4462:function(e,t,u){u.r(t),u.d(t,{default:function(){return f}});var n=u(6252);function r(e,t){const u=(0,n.up)("router-view");return(0,n.wg)(),(0,n.j4)(u)}var s=u(8118);const a={},c=(0,s.Z)(a,[["render",r]]);var f=c}}]);
